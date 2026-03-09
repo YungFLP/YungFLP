@@ -1,16 +1,30 @@
-## Hi there 👋
+Olá 👋
 
-<!--
-**YungFLP/YungFLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe e atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+
+JavaScript
+
+Git e GitHub
+
+Banco de dados
+
+🚀 Alguns projetos que estou desenvolvendo:
+
+Sistema de controle de despesas em Python
+
+Exercícios e projetos dos cursos da Alura
+
+📚 Atualmente estudando:
+
+Programação
+
+Estrutura de dados
+
+Desenvolvimento web
+
+🔗 GitHub:
+https://github.com/YungFLP
